@@ -11,3 +11,15 @@ body{
     font-weight: bolder;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+.itemFourSize{
+    font-size: 3rem;
+}
+
+.itemFiveImage{
+    background-image: url(../assets/4a29e932728a1b316b56e9b5d77d9191.jpg);
+    height: 400px;
+    width: 650px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}

@@ -46,7 +46,7 @@ btnChange2.addEventListener("click", function(event){
 
 btnChange3.addEventListener("click", function(event){
 
-    changeElement2.innerText = "Look at you go! I'm so proud";
+    changeElement2.innerText = "Paint with all the colors of the wind!";
     changeElement2.className = "itemTwoColor";
 });
 
@@ -56,37 +56,39 @@ btnChange4.addEventListener("click", function(event){
     changeElement3.className = "itemThreeFonts";
 });
 
-btnChang5.addEventListener("click", function(event){
+btnChange5.addEventListener("click", function(event){
 
-    
+    changeElement4.innerText = "My goodess you have grown";
+    changeElement4.className = "itemFourSize";
 });
 
 btnChange6.addEventListener("click", function(event){
 
-   
+    changeElement5.innerText = "";
+    changeElement5.className = "itemFiveImage";
 });
 
 btnChange7.addEventListener("click", function(event){
 
-     
+    changeElement6.innerText ="";
 });
 
 btnChange8.addEventListener("click", function(event){
 
-    
+    changeElement7.innerText
 });
 
 btnChange9.addEventListener("click", function(event){
 
-   
+   changeElement8.innerText
 });
 
 btnChange10.addEventListener("click", function(event){
 
-    
+    changeElement9.innerText
 });
 
 btnChange11.addEventListener("click", function(event){
 
-   
+   changeElement10.innerText
 });
