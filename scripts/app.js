@@ -58,7 +58,7 @@ btnChange4.addEventListener("click", function(event){
 
 btnChange5.addEventListener("click", function(event){
 
-    changeElement4.innerText = "My goodess you have grown";
+    changeElement4.innerText = "My goodess you have grown!";
     changeElement4.className = "itemFourSize";
 });
 
@@ -70,25 +70,29 @@ btnChange6.addEventListener("click", function(event){
 
 btnChange7.addEventListener("click", function(event){
 
-    changeElement6.innerText ="";
+    changeElement6.innerText = "";
 });
 
 btnChange8.addEventListener("click", function(event){
 
-    changeElement7.innerText
+    changeElement7.innerText = "I feel like Houdini appearing before you!";
+    changeElement7.className = "buttonchange7 "+ "fadeIn";
 });
 
 btnChange9.addEventListener("click", function(event){
 
-   changeElement8.innerText
+   changeElement8.innerText = "Woah... now I feel really dizzy...";
+   changeElement8.className = "buttonchange8 " + "spinner";
 });
 
 btnChange10.addEventListener("click", function(event){
 
-    changeElement9.innerText
+    changeElement9.innerText = "Since you pressed on me... my heart can't stop beating"
+    changeElement9.className = "buttonchange9 " + "heartbeat";
 });
 
 btnChange11.addEventListener("click", function(event){
 
-   changeElement10.innerText
+   changeElement10.innerText = "Baby, I'm just gonna shake, shake, shake, shake, shake"
+   changeElement10.className = "buttonchange10 " + "shake";
 });

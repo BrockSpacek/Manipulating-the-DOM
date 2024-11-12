@@ -23,3 +23,24 @@ body{
     background-size: 100%;
     background-repeat: no-repeat;
 }
+
+.buttonchange7{
+    color: chocolate;
+}
+
+.buttonchange8{
+    font-size: 2rem;
+    color: crimson;
+}
+
+.buttonchange9{
+    color: seagreen;
+    font-weight: bold;
+}
+
+.buttonchange10{
+    font-style: italic;
+    color: darkcyan;
+    
+}
+
