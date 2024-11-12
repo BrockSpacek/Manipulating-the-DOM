@@ -41,7 +41,7 @@ btnChange1.addEventListener("click", function(event){
 
 btnChange2.addEventListener("click", function(event){
 
-     
+     changeElement1.innerText = "Congratulations!!! You pressed the button."
 });
 
 btnChange3.addEventListener("click", function(event){
