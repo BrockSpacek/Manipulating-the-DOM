@@ -41,17 +41,19 @@ btnChange1.addEventListener("click", function(event){
 
 btnChange2.addEventListener("click", function(event){
 
-     changeElement1.innerText = "Congratulations!!! You pressed the button."
+     changeElement1.innerText = "Congratulations!!! You pressed the button and changed the text"
 });
 
 btnChange3.addEventListener("click", function(event){
 
-   
+    changeElement2.innerText = "Look at you go! I'm so proud";
+    changeElement2.className = "itemTwoColor";
 });
 
 btnChange4.addEventListener("click", function(event){
 
-    
+    changeElement3.innerText = "Look at those letters!";
+    changeElement3.className = "itemThreeFonts";
 });
 
 btnChang5.addEventListener("click", function(event){
